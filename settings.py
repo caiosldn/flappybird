@@ -1,0 +1,36 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+FPS = 60 
+
+GRAVITY = 0.35   
+FLAP_STRENGTH = -7
+MAX_FALL_SPEED = 8 
+PIPE_WIDTH = 80
+GAP_SIZE = 170
+PIPE_SPAWN_TIME = 1500 
+PLAYER_SIZE = 50 
+PIPE_V_SPEED = 1.0
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+YELLOW = (255, 255, 0)
+PURPLE = (128, 0, 128) 
+
+STATE_MENU = "MENU"
+STATE_PLAYING = "PLAYING"
+STATE_RANKING = "RANKING"
+STATE_QUIT = "QUIT"
+STATE_GAME_OVER = "GAME_OVER"
+STATE_SELECT_PHASE = "SELECT_PHASE" 
+
+DIFFICULTY_SPEEDS = {
+    "FÁCIL": {"pipe_speed": 3, "fps_mult": 1.0},
+    "MÉDIO": {"pipe_speed": 4.5, "fps_mult": 1.2},
+    "DIFÍCIL": {"pipe_speed": 6, "fps_mult": 1.5},
+}
+
+PHASE_MECHANICS = {
+    "ESTÁTICO": {"v_speed_mult": 0.0},
+    "MÓVEL (PERSEGUIÇÃO)": {"v_speed_mult": 1.0},
+}

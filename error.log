@@ -1,0 +1,86 @@
+2025-11-18 23:45:00,494 - INFO - Banco de dados do ranking inicializado com sucesso.
+2025-11-18 23:45:00,498 - INFO - Asset 'bird.png' carregado com sucesso.
+2025-11-18 23:45:00,501 - INFO - Asset 'pipe.png' carregado com sucesso.
+2025-11-18 23:45:00,512 - INFO - Asset 'ceu.png' carregado com sucesso.
+2025-11-18 23:45:00,520 - INFO - Asset 'game_over.png' carregado com sucesso.
+2025-11-18 23:45:00,523 - INFO - Jogo inicializado.
+2025-11-18 23:45:02,160 - INFO - Pássaro resetado para nova fase/jogo.
+2025-11-18 23:45:07,669 - INFO - Pontuação: 1
+2025-11-18 23:45:07,669 - INFO - Pontuação: 2
+2025-11-18 23:45:09,192 - INFO - Pontuação: 3
+2025-11-18 23:45:09,192 - INFO - Pontuação: 4
+2025-11-18 23:45:10,711 - INFO - Pontuação: 5
+2025-11-18 23:45:10,712 - INFO - Pontuação: 6
+2025-11-18 23:45:11,597 - INFO - Fim de jogo detectado. Tentando salvar score: 6
+2025-11-18 23:45:11,606 - INFO - Pontuação salva: 6 (ESTÁTICO (FÁCIL))
+2025-11-18 23:45:11,606 - INFO - Score salvo. Iniciando transição para Game Over.
+2025-11-18 23:54:07,996 - INFO - Banco de dados do ranking inicializado com sucesso.
+2025-11-18 23:54:07,999 - INFO - Asset 'bird.png' carregado com sucesso.
+2025-11-18 23:54:08,003 - INFO - Asset 'pipe.png' carregado com sucesso.
+2025-11-18 23:54:08,014 - INFO - Asset 'ceu.png' carregado com sucesso.
+2025-11-18 23:54:08,022 - INFO - Asset 'game_over.png' carregado com sucesso.
+2025-11-18 23:54:08,031 - INFO - Asset 'music.mp3' carregado com sucesso.
+2025-11-18 23:54:08,035 - INFO - Jogo inicializado.
+2025-11-19 00:16:18,609 - INFO - Banco de dados do ranking inicializado com sucesso.
+2025-11-19 00:16:18,614 - INFO - Asset 'bird.png' carregado com sucesso.
+2025-11-19 00:16:18,618 - INFO - Asset 'pipe.png' carregado com sucesso.
+2025-11-19 00:16:18,629 - INFO - Asset 'ceu.png' carregado com sucesso.
+2025-11-19 00:16:18,638 - INFO - Asset 'game_over.png' carregado com sucesso.
+2025-11-19 00:16:18,638 - INFO - Asset 'music.mp3' carregado com sucesso.
+2025-11-19 00:16:18,641 - INFO - Jogo inicializado.
+2025-11-19 00:16:34,529 - INFO - Mecânica de Fase definida para: MÓVEL (PERSEGUIÇÃO)
+2025-11-19 00:16:34,813 - INFO - Mecânica de Fase definida para: ESTÁTICO
+2025-11-19 00:16:35,046 - INFO - Mecânica de Fase definida para: MÓVEL (PERSEGUIÇÃO)
+2025-11-19 00:16:35,279 - INFO - Mecânica de Fase definida para: ESTÁTICO
+2025-11-19 00:16:35,728 - INFO - Mecânica de Fase definida para: MÓVEL (PERSEGUIÇÃO)
+2025-11-19 00:16:37,259 - INFO - Mecânica de Fase definida para: ESTÁTICO
+2025-11-19 00:16:37,946 - INFO - Velocidade definida para: MÉDIO
+2025-11-19 00:16:38,319 - INFO - Velocidade definida para: DIFÍCIL
+2025-11-19 00:16:38,603 - INFO - Velocidade definida para: MÉDIO
+2025-11-19 00:16:39,165 - INFO - Mecânica de Fase definida para: MÓVEL (PERSEGUIÇÃO)
+2025-11-19 00:16:39,476 - INFO - Mecânica de Fase definida para: ESTÁTICO
+2025-11-19 00:16:42,034 - INFO - Pássaro resetado para nova fase/jogo.
+2025-11-19 00:16:46,028 - INFO - Pontuação: 1
+2025-11-19 00:16:46,028 - INFO - Pontuação: 2
+2025-11-19 00:16:47,526 - INFO - Pontuação: 3
+2025-11-19 00:16:47,526 - INFO - Pontuação: 4
+2025-11-19 00:16:49,043 - INFO - Pontuação: 5
+2025-11-19 00:16:49,043 - INFO - Pontuação: 6
+2025-11-19 00:16:50,556 - INFO - Pontuação: 7
+2025-11-19 00:16:50,556 - INFO - Pontuação: 8
+2025-11-19 00:16:52,063 - INFO - Pontuação: 9
+2025-11-19 00:16:52,063 - INFO - Pontuação: 10
+2025-11-19 00:16:53,565 - INFO - Pontuação: 11
+2025-11-19 00:16:53,565 - INFO - Pontuação: 12
+2025-11-19 00:16:54,863 - INFO - GAME OVER. Pontuação final: 12. Mecânica: ESTÁTICO. Velocidade: MÉDIO
+2025-11-19 00:16:54,870 - INFO - Pontuação salva: 12 (ESTÁTICO (MÉDIO))
+2025-11-19 00:17:02,698 - INFO - Mecânica de Fase definida para: MÓVEL (PERSEGUIÇÃO)
+2025-11-19 00:17:03,223 - INFO - Velocidade definida para: DIFÍCIL
+2025-11-19 00:17:08,625 - INFO - Pássaro resetado para nova fase/jogo.
+2025-11-19 00:17:11,549 - INFO - Pontuação: 1
+2025-11-19 00:17:11,549 - INFO - Pontuação: 2
+2025-11-19 00:17:13,045 - INFO - Pontuação: 3
+2025-11-19 00:17:13,045 - INFO - Pontuação: 4
+2025-11-19 00:17:14,554 - INFO - Pontuação: 5
+2025-11-19 00:17:14,554 - INFO - Pontuação: 6
+2025-11-19 00:17:16,050 - INFO - Pontuação: 7
+2025-11-19 00:17:16,050 - INFO - Pontuação: 8
+2025-11-19 00:17:17,570 - INFO - Pontuação: 9
+2025-11-19 00:17:17,570 - INFO - Pontuação: 10
+2025-11-19 00:17:19,092 - INFO - Pontuação: 11
+2025-11-19 00:17:19,092 - INFO - Pontuação: 12
+2025-11-19 00:17:20,595 - INFO - Pontuação: 13
+2025-11-19 00:17:20,595 - INFO - Pontuação: 14
+2025-11-19 00:17:22,093 - INFO - Pontuação: 15
+2025-11-19 00:17:22,093 - INFO - Pontuação: 16
+2025-11-19 00:17:23,592 - INFO - Pontuação: 17
+2025-11-19 00:17:23,592 - INFO - Pontuação: 18
+2025-11-19 00:17:24,986 - INFO - GAME OVER. Pontuação final: 18. Mecânica: MÓVEL (PERSEGUIÇÃO). Velocidade: DIFÍCIL
+2025-11-19 00:17:24,992 - INFO - Pontuação salva: 18 (MÓVEL (PERSEGUIÇÃO) (DIFÍCIL))
+2025-11-19 00:24:58,187 - INFO - Banco de dados do ranking inicializado com sucesso.
+2025-11-19 00:24:58,191 - INFO - Asset 'bird.png' carregado com sucesso.
+2025-11-19 00:24:58,195 - INFO - Asset 'pipe.png' carregado com sucesso.
+2025-11-19 00:24:58,206 - INFO - Asset 'ceu.png' carregado com sucesso.
+2025-11-19 00:24:58,214 - INFO - Asset 'game_over.png' carregado com sucesso.
+2025-11-19 00:24:58,215 - INFO - Asset 'music.mp3' carregado com sucesso.
+2025-11-19 00:24:58,218 - INFO - Jogo inicializado.
